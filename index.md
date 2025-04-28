@@ -1,6 +1,1 @@
-# pipipi popopo
-### pipi popo
-###### pi po
-
-
-Here, I've tested the different headers, variating the text size
+![Image of Minion](https://octodex.github.com/images/minion.png)
