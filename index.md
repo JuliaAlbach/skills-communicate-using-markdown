@@ -1,1 +1,3 @@
-![Image of Minion](https://octodex.github.com/images/minion.png)
+``` javascript
+var MyVar = "What's up! I'm Júlia!";
+````
